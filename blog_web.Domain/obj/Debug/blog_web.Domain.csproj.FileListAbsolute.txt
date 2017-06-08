@@ -1,0 +1,10 @@
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\blog_web.Domain.dll
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\blog_web.Domain.pdb
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\obj\Debug\blog_web.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\obj\Debug\blog_web.Domain.dll
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\obj\Debug\blog_web.Domain.pdb
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\blog_web.Domain.dll.config
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Maksim\documents\visual studio 2017\Projects\blog_web.test\blog_web.Domain\bin\Debug\EntityFramework.SqlServer.xml

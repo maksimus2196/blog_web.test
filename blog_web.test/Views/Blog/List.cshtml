@@ -1,0 +1,14 @@
+﻿@using blog_web.test.Models
+@using blog_web.test.HtmlHelp
+@model BlogListViewModel
+    @{ 
+        ViewBag.Title = "Blogs";
+    }
+@foreach (var b in @Model.Blogs)
+{
+   @Html.Partial("BlogSummary",b)
+}
+<div class=" btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x=> Url.Action("List", 
+    new { page= x,category =Model.CurrentCategory}))
+</div>
