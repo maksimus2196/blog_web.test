@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
 
+
 namespace blog_web.Domain.Entities
 {
     public class Blog
